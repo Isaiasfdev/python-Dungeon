@@ -1,1 +1,0 @@
-[{"name":"Description","type":"string","visibility":"visible"},{"name":"Vida","type":"number","visibility":"hidden"},{"name":"Prontos_de_Conhecimento","type":"number","visibility":"visible"},{"name":"Dinheiro","type":"number","step":".1"},{"name":"Chaves","type":"number","step":".1"}]
